@@ -2,7 +2,7 @@
 base_url = "https://slide-rs.github.io/"
 
 title = "Specs"
-description = "Specs Parallel ECS, a Rust library for parallel data processing using the Entity Component System pattern"
+description = "Specs Parallel ECS, a Rust library for parallel data processing using the Entity Component System pattern - test DONt DEPLOY ON PR"
 theme = "hyde"
 
 # Whether to automatically compile all Sass files in the sass directory
